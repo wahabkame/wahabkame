@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue,Python,more Back-end**
 
-- ⚡ Fun fact **I have self-learing skills**
+- ⚡ Fun fact **I Have Self-Learing Skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
