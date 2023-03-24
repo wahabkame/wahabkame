@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm wahabkame</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A Passionate Web Developer</h3>
 
-- 🌱 I’m currently learning **Vue,Python,more back-end**
+- 🌱 I’m currently learning **Vue,Python,more Back-end**
 
 - ⚡ Fun fact **I have self-learing skills**
 
