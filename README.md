@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WahabKame</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **laravel, Django , PostgreSQL.**
+- 🌱 I’m currently learning **Laravel, Django, PostgreSQL.**
 
 - ⚡ Fun fact **I Have Self-Learing Skills**
 
