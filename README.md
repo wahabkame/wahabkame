@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WahabKame</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **Laravel, DevOps**
+- 🌱 I’m currently learning **Laravel, DevOps, AWS**
 
 - ⚡ Fun fact **I Have Self-Learing Skills**
 
